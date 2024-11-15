@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "thumb_img": "https://i.ibb.co.com/0G74j5B/1.jpg",
+      "author_name": "Sarah Ahmed",
+      "author_img": "https://example.com/images/author1.jpg",
+      "publish_date": "Oct 1 (14 days ago)",
+      "reading_time": 5,
+      "blog_title": "Understanding the Basics of Quantum Physics",
+      "hashtags": ["#QuantumPhysics", "#Science", "#Physics"]
+    },
+    {
+      "id": 2,
+      "thumb_img": "https://i.ibb.co.com/7YDnGvn/2.png",
+      "author_name": "Ali Khan",
+      "author_img": "https://example.com/images/author2.jpg",
+      "publish_date": "Oct 10 (5 days ago)",
+      "reading_time": 7,
+      "blog_title": "The Future of Renewable Energy",
+      "hashtags": ["#RenewableEnergy", "#Sustainability", "#GreenTech"]
+    },
+    {
+      "id": 3,
+      "thumb_img": "https://i.ibb.co.com/rp4gFwQ/3.png",
+      "author_name": "Fatima Noor",
+      "author_img": "https://example.com/images/author3.jpg",
+      "publish_date": "Sep 15 (30 days ago)",
+      "reading_time": 6,
+      "blog_title": "How AI is Revolutionizing Healthcare",
+      "hashtags": ["#AI", "#Healthcare", "#Innovation"]
+    },
+    {
+      "id": 4,
+      "thumb_img": "https://i.ibb.co.com/5n30Fh9/4.jpg",
+      "author_name": "Omar Javed",
+      "author_img": "https://example.com/images/author4.jpg",
+      "publish_date": "Aug 25 (51 days ago)",
+      "reading_time": 8,
+      "blog_title": "Top 10 Tips for Productive Remote Work",
+      "hashtags": ["#RemoteWork", "#Productivity", "#WorkFromHome"]
+    },
+    {
+      "id": 5,
+      "thumb_img": "https://example.com/images/thumb5.jpg",
+      "author_name": "Lina Karim",
+      "author_img": "https://example.com/images/author5.jpg",
+      "publish_date": "Nov 5 (10 days ago)",
+      "reading_time": 10,
+      "blog_title": "The Evolution of Digital Marketing Strategies",
+      "hashtags": ["#DigitalMarketing", "#SEO", "#MarketingTrends"]
+    }
+  ]
+  
