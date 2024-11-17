@@ -48,6 +48,16 @@
       "reading_time": 10,
       "blog_title": "The Evolution of Digital Marketing Strategies",
       "hashtags": ["#DigitalMarketing", " #SEO ", " #MarketingTrends"]
+    },
+    {
+      "id": 1,
+      "thumb_img": "https://example.com/images/thumb1.jpg",
+      "author_name": "Sarah Ahmed",
+      "author_img": "https://example.com/images/author1.jpg",
+      "publish_date": "Oct 1 (14 days ago)",
+      "reading_time": 5,
+      "blog_title": "Understanding the Basics of Quantum Physics",
+      "hashtags": ["#QuantumPhysics", "#Science", "#Physics"]
     }
   ]
   
